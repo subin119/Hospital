@@ -3,6 +3,7 @@ public class Hospital {
 
 	public static void main(String[] args) {
 
+		//주석 추가
 		Doctor 정형외과의사 = new Doctor("아이패드", "망치");
 		정형외과의사.setComputer("맥북 프로 레티나 13인치 하스웰");
 		정형외과의사.setMedicalAppliance("톱");
